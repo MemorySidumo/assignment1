@@ -1,2 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit for my website"
+
 # Auto detect text files and perform LF normalization
 * text=auto
