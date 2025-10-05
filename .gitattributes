@@ -1,6 +1,9 @@
 git init
 git add .
 git commit -m "Initial commit for my website"
+git remote add origin https://github.com/MemorySidumo/my-website.git
+git branch -M main
+git push -u origin main
 
 # Auto detect text files and perform LF normalization
 * text=auto
